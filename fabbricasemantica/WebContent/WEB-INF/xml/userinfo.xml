@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><users>
+    <user>
+        <email>nin@gmail.com</email>
+        <password>DREbKLT4rX3e4j+kh3AXNM0bkjw=</password>
+        <languages>	
+        <native-language>chinese</native-language>
+        	<other-languages>english</other-languages>
+        </languages>
+    </user>
+    
+    <user>
+        <email>John123@gmail.com</email>
+        <password>23145fdsd874</password>
+    	<languages>
+        	<native-language>spanish</native-language>
+        	<other-languages>italian</other-languages>
+        </languages>
+    </user>
+    
+    <user>
+        <email>asd@gmail.com</email>
+        <password>asd23145fdsd874</password>
+    	<languages>	
+        <native-language>uyghur</native-language>
+        	<other-languages>greece</other-languages>
+        </languages>
+    </user>
+ 
+ 	<user>
+ 		<email>nijat@gmail.com</email>
+ 		<password>nijat123</password>
+ 		<languages>
+ 			<native-language>uyghur</native-language>
+ 			<other-languages>chinese,english,italian</other-languages>
+ 		</languages>
+ 	</user>
+ 	
+ 	<user>
+ 		<email>ninjia@gmail.com</email>
+ 		<password>asfd12324as6a;./asdasd</password>
+ 		<languages>
+ 			<native-languages>uyghur,english</native-languages>
+ 			<other-languages>chinese,italian,english,uzbek</other-languages>
+ 		</languages>
+ 	</user>
+ 	
+ 	<user>
+ 		<email>no@gmail.com</email>
+ 		<password>ni</password>
+ 		<languages>
+ 			<native-languages>uyghur</native-languages>
+ 			<other-languages>chinese,italian</other-languages>
+ 		</languages>
+ 	</user>
+ 	 	<user>
+ 		<email>nado@gmail.com</email>
+ 		<password>niaddas</password>
+ 		<languages>
+ 			<native-languages>uyghur</native-languages>
+ 			<other-languages>chinese,italian</other-languages>
+ 		</languages>
+ 	</user>
+ 	
+ 	<user><email>nijat@gmail.com</email><password>98</password><languages><native-languages>spanish,chinese</native-languages><other-languages>on</other-languages></languages></user></users>
